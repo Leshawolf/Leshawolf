@@ -1,4 +1,4 @@
-<img sr="/.vs/Leshawolf/v17/Image.png" width="100px" lenght="100">
+<img sr="https://github.com/Leshawolf/Leshawolf/blob/main/Image.png" width="100px" lenght="100">
 
 ### Hi there 👋
 ## My name is Aleksey
