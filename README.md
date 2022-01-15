@@ -6,8 +6,8 @@
 
 ## Knowledge of programming languages:
 
-<img align="left" alt="Go" width="50px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Golang.png" />
-<img align="left" alt="C#" width="50px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/C%23.jpeg" />
-<img align="left" alt="C++" width="50px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/C%2B%2B.jpeg" />
-<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/Leshawolf/Leshawolf/main/image/Language/Java.webp" />
-<img align="left" alt="Python" width="50px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Python.jpg" />
+<img align="left" alt="Go" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Golang.png" />
+<img align="left" alt="C#" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/C%23.jpeg" />
+<img align="left" alt="C++" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/C%2B%2B.jpeg" />
+<img align="left" alt="Java" width="70px" src="https://raw.githubusercontent.com/Leshawolf/Leshawolf/main/image/Language/Java.webp" />
+<img align="left" alt="Python" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Python.jpg" />
