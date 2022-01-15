@@ -6,4 +6,4 @@
 
 ## Knowledge of programming languages:
 
-<img align="left" alt="C#" width="26px" src="https://github.com/Leshawolf/Leshawolf/blob/main/C%23.jpeg" />
+<img align="left" alt="C#" width="50px" src="https://github.com/Leshawolf/Leshawolf/blob/main/C%23.jpeg" />
