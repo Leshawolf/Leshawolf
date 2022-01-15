@@ -1,4 +1,4 @@
-[![Header](https://github.com/Leshawolf/Leshawolf/blob/main/Image.png)](https://github.com/Leshawolf)
+[![Header](https://github.com/Leshawolf/Leshawolf/blob/main/image/Logo.png)](https://github.com/Leshawolf)
 
 ### Hi my bro, 
 ## My name is Aleksey 👋
