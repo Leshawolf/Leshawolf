@@ -1,8 +1,9 @@
-<img sr="https://github.com/Leshawolf/Leshawolf/blob/main/Image.png" width="50px" lenght="50px">
-
 [![Header](https://github.com/Leshawolf/Leshawolf/blob/main/Image.png)](https://github.com/Leshawolf)
 
-### Hi there 👋
-## My name is Aleksey
+### Hi my bro, 
+## My name is Aleksey 👋
 ## I'm Junior developer
-## I am a college student in my third year
+
+## Knowledge of programming languages:
+
+<img align="left" alt="C#" width="26px" src="https://github.com/Leshawolf/Leshawolf/blob/main/C%23.jpeg" />
