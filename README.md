@@ -1,4 +1,4 @@
-<img sr="https://github.com/Leshawolf/Leshawolf/blob/main/Image.png" width="100px" lenght="100">
+<img sr="https://github.com/Leshawolf/Leshawolf/blob/main/Image.png" width="50px" lenght="100px">
 
 [![Header](https://github.com/Leshawolf/Leshawolf/blob/main/Image.png)](https://github.com/Leshawolf)
 
