@@ -1,4 +1,4 @@
-<img sr="./src/Шапка.png" width="100px">
+<img sr="Шапка.png" width="100px">
 
 ### Hi there 👋
 ## My name is Aleksey
