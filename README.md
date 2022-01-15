@@ -5,7 +5,6 @@
 ## I'm Junior developer
 
 ## Knowledge of programming languages
-<br />
 <img align="left" alt="Go" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Golang.png" />
 <img align="left" alt="C#" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/C%23.jpeg" />
 <img align="left" alt="C++" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/C%2B%2B.jpeg" />
@@ -15,7 +14,8 @@
 <br />
 
 ## Working with platforms
-<img align="left" alt="Visual Studio 2022" width="70px" src="hhttps://github.com/Leshawolf/Leshawolf/blob/main/image/Platforms/Visual%20Studio.jpeg" />
+
+<img align="left" alt="Visual Studio 2022" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Platforms/Visual%20Studio.jpeg" />
 <img align="left" alt="JetBrains" width="70px" src="https://raw.githubusercontent.com/Leshawolf/Leshawolf/main/image/Platforms/jetbrains.webp" />
 <img align="left" alt="Visual Code" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Platforms/Visual%20Code.png" />
 <img align="left" alt="Eclipse" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Platforms/eclipse.png" />
