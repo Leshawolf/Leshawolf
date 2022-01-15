@@ -13,5 +13,5 @@
 <img align="left" alt="Python" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Python.jpg" />
 
 ## My Social network:
-[![Footter](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/Instagram.jpg)](https://instagram.com/a.volchek_?utm_medium=copy_link)
+[![Footter](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/Instagram.png)](https://instagram.com/a.volchek_?utm_medium=copy_link)
 [![Footter](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/VK.png)](https://vk.com/volchek903)
