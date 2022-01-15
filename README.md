@@ -1,4 +1,4 @@
-<img sr="\.vs\Leshawolf\v17" width="100px">
+<img sr="\.vs\Leshawolf\v17\Image.png" width="100px">
 
 ### Hi there 👋
 ## My name is Aleksey
