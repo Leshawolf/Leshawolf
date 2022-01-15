@@ -1,8 +1,7 @@
 [![Header](https://github.com/Leshawolf/Leshawolf/blob/main/image/Header/Logo.png)](https://github.com/Leshawolf)
 
-### Hi my bro, 
-##  My name is Aleksey 👋
-## I'm Junior developer
+# Hi my bro👋
+##  My name is Aleksey. I'm Junior developer.:bowtie:
 
 ## Knowledge of programming languages
 <img align="left" alt="Go" width="70px" src="https://github.com/Leshawolf/Leshawolf/blob/main/image/Language/Golang.png" />
