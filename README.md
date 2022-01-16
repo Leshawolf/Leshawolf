@@ -27,4 +27,5 @@
 [![Instagram](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/Instagram.png)](https://instagram.com/a.volchek_?utm_medium=copy_link)
 [![VK](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/VK.png)](https://vk.com/volchek903)
 [![Telegram](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/Telegram.png)](https://t.me/volchek903)
+[![Pinterest](https://github.com/Leshawolf/Leshawolf/blob/main/image/Social%20network/Pinterest.png)](https://pin.it/6UpJeay)
 
