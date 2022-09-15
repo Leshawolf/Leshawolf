@@ -1,5 +1,5 @@
 <!--[![Header](blob:https://yapx.ru/8bc00004-a861-438b-ac07-bd9391176f6b)](https://github.com/Leshawolf)-->
-
+<img align="center" alt="logo" width="90px" src="https://imgur.com/1LNUdBh" />
 # Hi my bro👋
 ##  My name is Aleksey. I'm Junior developer.:bowtie:
 
