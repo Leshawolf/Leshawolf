@@ -1,5 +1,5 @@
 <!--[![Header](blob:https://yapx.ru/8bc00004-a861-438b-ac07-bd9391176f6b)](https://github.com/Leshawolf)-->
-# Hi my bro👋
+# Hi👋
 ##  My name is Aleksey. I'm Junior developer.:bowtie:
 
 ## Knowledge of programming languages
